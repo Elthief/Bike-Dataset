@@ -50,7 +50,7 @@ def create_byday_df(df):
 
 # Load cleaned data
 
-daily_df = pd.read_csv('./day.csv')
+daily_df = pd.read_csv('data/day.csv')
 
 # Menyiapkan berbagai dataframe
 monthly_user_df = create_monthly_user_df(daily_df)
