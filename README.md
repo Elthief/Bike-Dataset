@@ -13,9 +13,9 @@ streamlit run dashboard.py
 ```
 
 ## Open deployed app
-```
+
 https://oneride-bikerent-samfakhri.streamlit.app/
-```
+
 
 ## Screenshot of the app
 <img width="957" alt="Screenshot 2023-11-17 155050" src="https://github.com/Elthief/Bike-Dataset/assets/70382361/9b337028-6a31-4106-8278-67a02b94813b">
