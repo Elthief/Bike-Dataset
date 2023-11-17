@@ -12,3 +12,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 streamlit run dashboard.py
 ```
 
+## Open deployed app
+```
+https://oneride-bikerent-samfakhri.streamlit.app/
+```
