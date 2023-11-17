@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Bike Rents Report Dashboard ✨
 
 ## Setup environment
 ```
